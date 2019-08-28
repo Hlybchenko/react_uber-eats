@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f4b2a6d2f9ac7fa1bcf0d134011e97ff",
+    "revision": "bc26dcb8ba490e0652213edbc7282e4c",
     "url": "/react_uber-eats/index.html"
   },
   {
-    "revision": "51065e2eb372f3dc57ee",
+    "revision": "62f6640f35f5eab54a52",
     "url": "/react_uber-eats/static/css/main.0f6b3904.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react_uber-eats/static/js/2.a6bd3183.chunk.js"
   },
   {
-    "revision": "51065e2eb372f3dc57ee",
-    "url": "/react_uber-eats/static/js/main.14955922.chunk.js"
+    "revision": "62f6640f35f5eab54a52",
+    "url": "/react_uber-eats/static/js/main.3b688aea.chunk.js"
   },
   {
     "revision": "183d5977488a46d51899",
